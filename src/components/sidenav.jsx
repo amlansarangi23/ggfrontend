@@ -26,7 +26,7 @@ const SideNav = () => {
           </li>
           <li>
             <a
-              href="/"
+              href="/warehouse/workeradmin"
               className="block p-4 hover:bg-gray-700 transition duration-300"
             >
               Worker Management

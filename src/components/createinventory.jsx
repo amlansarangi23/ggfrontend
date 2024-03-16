@@ -1,10 +1,11 @@
 import React from 'react'
-import WarehouseForm from './customisespace'
+import AddWorkerForm from './customiseaddworker'
+
 
 export default function createinventory() {
   return (
     <div>
-      <WarehouseForm/>
+      <AddWorkerForm />
     </div>
   )
 }
